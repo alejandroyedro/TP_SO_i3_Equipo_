@@ -1,0 +1,24 @@
+Alejandro Yedro
+12:00
+
+Lo mas parecido a ipconfig que me di
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:541:2605:7d33:85f4:176b:7cd3
+   Dirección IPv6 . . . . . . . . . . : 2800:810:541:2605:aa64:d3af:4045:56a9
+   Dirección IPv6 temporal. . . . . . : 2800:810:541:2605:d598:11a3:eed5:a959
+   Vínculo: dirección IPv6 local. . . : fe80::fcb:f979:24ce:5807%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.22
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::229a:7dff:fead:fbe7%15
+                                       192.168.0.1
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::6a07:ba73:78b7:3d9a%7
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
