@@ -1,0 +1,16 @@
+a- ¿Cómo queda el master después de estos cambios?
+
+El master queda con todos los cambios integrados(los archivos de gama, beta y alfa)
+
+b- ¿Beta pudo ver todos los cambios que se realizaron?
+
+Si y no, veo los cambios dependiendo de en que rama este yo y en que rama esten trabajando GAMMA y ALFA, para poder verlos tengo que hacer un merge hacia mi rama o hacia el main asi lo ven todos
+
+c- ¿Qué debió hacer (todos los comandos) en el punto 5 para poder hacer el merge?
+git checkout main           
+git pull origin main
+git fetch origin             
+git merge Quintas 
+git add .
+git commit -m 
+git push origin main
