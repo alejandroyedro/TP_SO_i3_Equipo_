@@ -5,11 +5,11 @@ Lo mas parecido a ipconfig que me di
 
 Adaptador de Ethernet Ethernet:
 
-   Sufijo DNS específico para la conexión. . : home
+   Sufijo DNS especúƒico para la conexión. . : home
    Dirección IPv6 . . . . . . . . . . : 2800:810:541:2605:7d33:85f4:176b:7cd3
    Dirección IPv6 . . . . . . . . . . : 2800:810:541:2605:aa64:d3af:4045:56a9
    Dirección IPv6 temporal. . . . . . : 2800:810:541:2605:d598:11a3:eed5:a959
-   Vínculo: dirección IPv6 local. . . : fe80::fcb:f979:24ce:5807%15
+   Vú‹culo: dirección IPv6 local. . . : fe80::fcb:f979:24ce:5807%15
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.22
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : fe80::229a:7dff:fead:fbe7%15
@@ -17,8 +17,8 @@ Adaptador de Ethernet Ethernet:
 
 Adaptador de Ethernet Ethernet 2:
 
-   Sufijo DNS específico para la conexión. . :
-   Vínculo: dirección IPv6 local. . . : fe80::6a07:ba73:78b7:3d9a%7
+   Sufijo DNS especúƒico para la conexión. . :
+   Vú‹culo: dirección IPv6 local. . . : fe80::6a07:ba73:78b7:3d9a%7
    Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
    Máscara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . :Draco Quintas
@@ -65,3 +65,55 @@ Ethernet adapter Conexi¢n de red Bluetooth:
    Media State . . . . . . . . . . . : Media disconnected
    Connection-specific DNS Suffix  . : 
 Fri Nov 20 10:32:06 AST 2026
+
+------------------------------------
+Tamara Cortes 11:02 hs
+Configuracion IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . :
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS especifico para la conexion. . :
+   Vinculo: direccion IPv6 local. . . : fe80::9ff6:77b9:4c00:92c0%22
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalambrica Conexion de area local* 3:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . :
+
+Adaptador de LAN inalambrica Conexion de area local* 4:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . :
+
+Adaptador de LAN inalambrica Wi-Fi:
+
+   Sufijo DNS especifico para la conexion. . :
+   Direccion IPv6 . . . . . . . . . . : 2802:8010:b10f:ff01:90b3:bd30:9bac:5c56
+   Direccion IPv6 temporal. . . . . . : 2802:8010:b10f:ff01:58f5:669a:6fa0:a398
+   Vinculo: direccion IPv6 local. . . : fe80::d6ae:52d9:d5e0:bb62%8
+   Direccion IPv4. . . . . . . . . . . . . . : 192.168.1.37
+   Mascara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::a28a:6ff:fe40:baf0%8
+                                       192.168.1.1
+
+Adaptador de Ethernet Conexion de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS especifico para la conexion. . :
+
+Adaptador de Ethernet vEthernet (Default Switch):
+
+   Sufijo DNS especifico para la conexion. . :
+   Vinculo: direccion IPv6 local. . . : fe80::d1ed:3591:a276:13b7%25
+   Direccion IPv4. . . . . . . . . . . . . . : 172.29.224.1
+   Mascara de subred . . . . . . . . . . . . : 255.255.240.0
+   Puerta de enlace predeterminada . . . . . :
